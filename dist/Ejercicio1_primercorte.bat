@@ -1,0 +1,1 @@
+javaw -jar Ejercicio1_primercorte.jar
